@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+echo "Please run 'gradle wrapper' in your environment to generate the gradle wrapper files, or import this project into Android Studio which will manage the wrapper automatically."
